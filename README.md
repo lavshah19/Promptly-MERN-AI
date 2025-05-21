@@ -2,7 +2,10 @@
 
 **Promptly** is a simple AI chat interface built with **React** on the frontend and a lightweight **Node.js + Express** backend, using **Google's Gemini API** for generating responses.
 
-This project was created as a practice to explore integrating **Gemini AI** into a fullstack app. It does **not include a database** (like MongoDB) yet, but you can easily extend it to store chat history or user data.
+This project was created as a practice to explore integrating **Gemini AI** into a fullstack app. It does **not include a database** (like MongoDB) yet, since the focus was on AI integration with a backend.
+
+However, if you’d like to add chat history, user data, or authentication, it's very easy to connect MongoDB using Mongoose.  
+You can check out my other MERN stack projects to see how Mongoose is used, or refer to the [official Mongoose documentation](https://mongoosejs.com/docs/) for a quick start.
 
 ---
 
