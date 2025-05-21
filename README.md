@@ -31,7 +31,7 @@ You can check out my other MERN stack projects to see how Mongoose is used, or r
 ### 1. Clone the repo
 
 ```bash
-https://github.com/lavshah19/Promptly-MERN-AI
+git clone https://github.com/lavshah19/Promptly-MERN-AI
 
 
 2. Install dependencies
